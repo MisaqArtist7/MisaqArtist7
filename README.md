@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi there! I'm Misaq
 
-<!--
-**MisaqArtist7/MisaqArtist7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate **Front-End Developer** from Iran  
+⚛️ Specialized in **React**, **TypeScript**, and **TailwindCSS**  
+🚀 On a mission to build fast, beautiful, and scalable web apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- 🧠 Languages: `JavaScript`, `TypeScript`, `HTML`, `CSS`
+- ⚛️ Frameworks & Libraries: `React`, `Redux Toolkit`, `Next.js`
+- 🎨 Styling: `TailwindCSS`, `SASS`
+- 🐳 Tools & DevOps: `Git`, `GitHub`, `Docker`
+- 🧪 Testing: `Jest`, `React Testing Library`
+- 🌐 Others: `REST API`, `Figma`, `Vite`, `ESLint`, `Prettier`
+
+---
+
+### 🔭 Current Focus
+- Building real-world projects to master TypeScript + React  
+- Learning best practices for scalable front-end architecture  
+- Improving Git & GitHub workflows like a pro
+
+---
+
+### 📌 Some Facts About Me
+- 🧘 I believe everything happens for a reason — even bugs 😅  
+- 🧠 I see every mistake as a lesson  
+- 🙌 I'm open to collaboration on cool open-source projects  
+
+---
+
+### 📫 Let's Connect
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+- 📩 misaq.dev@gmail.com
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
