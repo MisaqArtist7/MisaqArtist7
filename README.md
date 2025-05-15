@@ -37,10 +37,11 @@
 ---
 ## 📊 My GitHub Stats
 
-![Misaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisaqArtist7&show_icons=true&theme=radical)
+![Misaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisaqArtist7&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisaqArtist7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisaqArtist7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MisaqArtist7&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MisaqArtist7&theme=dark)](https://git.io/streak-stats)
+
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
