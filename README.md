@@ -9,7 +9,7 @@
 ### 💻 Tech Stack
 - 🧠 Languages: `JavaScript`, `TypeScript`, `HTML`, `CSS`
 - ⚛️ Frameworks & Libraries: `React`, `Redux Toolkit`, `Next.js`
-- 🎨 Styling: `TailwindCSS`, `SASS`
+- 🎨 Styling: `TailwindCSS`
 - 🐳 Tools & DevOps: `Git`, `GitHub`, `Docker`
 - 🧪 Testing: `Jest`, `React Testing Library`
 - 🌐 Others: `REST API`, `Figma`, `Vite`, `ESLint`, `Prettier`
@@ -31,8 +31,7 @@
 ---
 
 ### 📫 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-- 📩 misaq.dev@gmail.com
+- 📩 misaqbabakhani777@gmail.com
 
 ---
 
