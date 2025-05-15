@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Misaq babakhani 🙋🏻‍♂️
+## 👋 Hi there! I'm Misaq babakhani 
 
 🎯 A passionate **Front-End Developer** from Iran  
 ⚛️ Specialized in **React**, **TypeScript**, and **TailwindCSS**  
