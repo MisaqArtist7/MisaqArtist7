@@ -36,12 +36,6 @@
   ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white) 
   ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white) 
   ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
-- 🧠 Languages: 
-  ![JavaScript](https://cdn.simpleicons.org/javascript) 
-  ![TypeScript](https://cdn.simpleicons.org/typescript) 
-  ![HTML5](https://cdn.simpleicons.org/html5) 
-  ![CSS3](https://cdn.simpleicons.org/css3)
-
 
 ---
 
