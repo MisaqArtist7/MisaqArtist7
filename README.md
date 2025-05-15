@@ -31,9 +31,8 @@
 ---
 
 ### 📫 Let's Connect
-[![Telegram Badge](https://img.shields.io/badge/-@misaqartist-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/misiartist)
-[![Email](https://img.shields.io/badge/Email-misaqbabakhani777@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:misaqbabakhani777@gmail.com)
-
+- 📬 Email: misaqbabakhani777@gmail.com
+- 💬 Telegram: misiartist
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
