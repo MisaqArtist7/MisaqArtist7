@@ -39,8 +39,6 @@
 
 ![Misaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisaqArtist7&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisaqArtist7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=MisaqArtist7&theme=dark)](https://git.io/streak-stats)
 
 
