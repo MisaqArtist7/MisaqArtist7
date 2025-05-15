@@ -33,6 +33,14 @@
 ### 📫 Let's Connect
 - 📬 Email: misaqbabakhani777@gmail.com
 - 💬 Telegram: misiartist
+
 ---
+## 📊 My GitHub Stats
+
+![Misaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisaqArtist7&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisaqArtist7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MisaqArtist7&theme=radical)](https://git.io/streak-stats)
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
