@@ -31,10 +31,8 @@
 ---
 
 ### 📫 Let's Connect
-- 📩 misaqbabakhani777@gmail.com
-- 💬 Telegram: [@misiartist](https://t.me/misiartist)
-
-
+[![Telegram Badge](https://img.shields.io/badge/-@misaqartist-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/misiartist)
+[![Email](https://img.shields.io/badge/Email-misaqbabakhani777@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:misaqbabakhani777@gmail.com)
 
 ---
 
