@@ -55,7 +55,8 @@
 
 ### 📫 Let's Connect
 - 📬 Email: misaqbabakhani777@gmail.com
-- 💬 Telegram: misiartist
+- 💬 Telegram: [misiartist](https://t.me/misiartist)
+
 
 ---
 ## 📊 My GitHub Stats
